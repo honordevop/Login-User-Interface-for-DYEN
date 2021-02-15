@@ -1,0 +1,15 @@
+<!-- psedocode
+- Get all images
+- Create a parent div to represent tablest
+- add another div inside the tablet to represent tablet control
+- create a div for right section of the tablet content
+- create a div for the left section of the tablet contentplace image inside add content to right section
+    - Add log in text
+    - create a form
+    - add email input and a label before it.
+    - add password inpute with a labell before it
+    - add inpute type submit as button
+    - add text after login button
+    add google and outlook icons after login text
+    - add forgot password text
+ -->

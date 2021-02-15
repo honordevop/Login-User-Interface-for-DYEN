@@ -1,0 +1,78 @@
+.parent {
+    height: 30em;
+    width: 60em;
+    margin-top: 3em;
+    margin-left: 12em;
+    border-radius: 3em;
+    background-color: #e1f4f4;
+}
+
+.tab-control {
+    height: 26em;
+    width: 52em;
+    margin-left: 1.5em;
+    margin-top: 2em;
+    float: left;
+    background-color: white;
+}
+
+.left-section, .right-section {
+    height: 26em;
+    width: 26em;
+    background-color: white;
+
+    float: left;
+}
+
+label,
+input,
+button {
+    display: block;
+    margin-left: 6em;
+
+}
+
+input,
+button {
+    width: 20em;
+    border-radius: 1em;
+    height: 2em;
+    border: 1px solid #b2dadb;
+}
+.up-pointer{
+    height: 0.5em; width: 0.5em; background-color: #88c3c5; margin-top: 15em; margin-left: 1em; border-radius: 50%; float: left;
+}
+.left-section{
+    background-image: url(../IMAGES/leftimage.png); background-size: cover;
+}
+.loginheader{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; margin-top: 2.5em;
+}
+.loginbutton{
+    background-color: #3b4859; font-weight: 2em; color: white;
+}
+.hor-line{
+    width: 5em; float: left; margin-left: 5em;
+}
+.hor-line1{
+    margin-left: 1em;
+}
+.google-logo{
+    margin-left: 11.5em;
+    border: 1px solid #879596;
+    border-radius: 7px;
+}
+.outlooklogo{
+    margin-left: 1em;
+    border: 1px solid #879596;
+    border-radius: 7px;
+}
+.forgotlogin{
+    text-align: center; text-decoration: none; color: teal;
+}
+.basepointer{
+    height: 2em; width: 2em; background-color:#e1f4f4; border: 1px solid teal; float: left; margin-top: 15em; margin-left: 1.5em; border-radius: 50%;
+}
+.orloginwith{
+    margin-top: 0; float: left; margin-left: 1em;
+}
